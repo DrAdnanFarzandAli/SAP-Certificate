@@ -47,4 +47,4 @@ If you have any questions or suggestions, feel free to reach out:
 - **Email:** [dradnanfarzandali@gmail.com](mailto:dradnanfarzandali@gmail.com)
 - **LinkedIn:** [Dr. Adnan Farzand Ali (PhD)](https://www.linkedin.com/in/dradnanfarzandali)
 
-Thank you for visiting my SAP Technology Consultant:Certificate!
+Thank you for visiting my SAP Technology Consultant Certificate!
