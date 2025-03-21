@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/master/images/sap-logo.png" width="120" />
-</p>
-
 # SAP Technology Consultant Certificate
 
 
