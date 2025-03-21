@@ -1,4 +1,5 @@
-# SAP Technology Consultant Certificate
+# SAP Technology Consultant Certificate<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/SAP_2011_logo.svg" align="right" width="120" />
+
 
 
 The **SAP Technology Consultant** certificate from Coursera is designed to provide professionals with an in-depth understanding of SAP (Systems, Applications, and Products in Data Processing) technologies, particularly focusing on the role of a technology consultant. SAP is one of the most widely used enterprise resource planning (ERP) systems in the world, and its technologies are integral to organizations for managing business processes, from finance and logistics to human resources and supply chain management. The certificate aims to equip participants with the knowledge and skills needed to configure, implement, and support SAP systems in various business environments.
